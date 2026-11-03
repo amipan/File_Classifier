@@ -1,0 +1,11 @@
+fastapi
+google-adk
+gradio
+httpx
+langgraph
+pillow
+pydantic
+pymupdf
+pytesseract
+python-dotenv
+uvicorn
